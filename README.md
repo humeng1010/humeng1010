@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">Welcome to my Github👋</h1>
+
+### stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redyouzi&show_icons=true&theme=radical)
+
+<hr/>
+
+### 🔝 Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redyouzi&layout=compact&theme=radical)
+
+
+
+
+
+
 
 <!--
 **redyouzi/redyouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
