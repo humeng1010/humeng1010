@@ -3,4 +3,4 @@
 ### Hi, I'm Redyouzi👋
 >I am a Web front-end enthusiast from China.
 
-🔗 <a href="https://redyouzi.github.io/" target="_blank">https://redyouzi.github.io/</a>
+🔗 <a href="https://redyouzi.github.io/" target="_blank">redyouzi.github.io</a>
