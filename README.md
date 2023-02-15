@@ -12,7 +12,7 @@
 
 <div class="half">
   <a href="https://github.com/redyouzi"><img src="https://github-readme-stats.vercel.app/api?username=redyouzi&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
-  <a href="https://github.com/redyouzi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyouzi&hide=css,typescript,html&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+  <a href="https://github.com/redyouzi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyouzi&hide=css,typescript，javascript&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
 
 
