@@ -18,4 +18,4 @@
 
 
 
-🔗 blog: <a href="http://www.wuluwulu.cn/">wuluwulu.cn</a>
+🔗 blog: <a href="http://www.wuluwulu.cn/" target="_blank">wuluwulu.cn</a>
