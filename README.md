@@ -12,4 +12,7 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humeng1010&hide_title=true&hide=css,javascript,html&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-🔗 blog: <a href="http://www.wuluwulu.cn/" target="_blank">wuluwulu.cn</a>
+🔗 blog-v2: <a href="https://javaworld.top" target="_blank">javaworld.top</a>
+
+🔗 blog-v1: <a href="http://www.wuluwulu.cn/" target="_blank">wuluwulu.cn</a>
+
